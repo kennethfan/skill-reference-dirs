@@ -1,0 +1,7 @@
+{
+  "refs": [
+    "project-core",
+    "../shared-docs",
+    "~/codes/common"
+  ]
+}
